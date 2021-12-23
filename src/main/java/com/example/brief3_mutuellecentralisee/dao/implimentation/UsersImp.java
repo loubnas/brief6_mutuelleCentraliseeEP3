@@ -3,16 +3,20 @@ package com.example.brief3_mutuellecentralisee.dao.implimentation;
 import com.example.brief3_mutuellecentralisee.dao.dao;
 import com.example.brief3_mutuellecentralisee.dao.interfaces.UsersInt;
 import com.example.brief3_mutuellecentralisee.helpers.alertHelper;
+import com.example.brief3_mutuellecentralisee.homeController;
 import com.example.brief3_mutuellecentralisee.models.User;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+
+import org.apache.log4j.Logger;
 import org.mindrot.jbcrypt.BCrypt;
 
 
 public class UsersImp implements UsersInt {
-
+    //logger:
+    static  final Logger log = Logger.getLogger(homeController.class.getName());
 
     @Override
     public User Connect(String username, String password) {
@@ -42,6 +46,7 @@ public class UsersImp implements UsersInt {
                 }
             }
         } catch (SQLException e) {
+            log.error("Error : "+ e.getMessage());
             alertHelper.ShowError("Erreur","Erreur MySQL.",e.getMessage());
         } finally {
             dao.close(stmt);

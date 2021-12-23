@@ -86,20 +86,21 @@ public class homeController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         log.info("You are now in home page ");
-        try {
+    try {
             cin.setSelected(true);
 
             countryCodes=jsonHelper.GetPhoneCountryCodes();
            for(CountryCode cc : countryCodes) {
                 phoneCode.getItems().add(cc.getDial_code());
             }
-        } catch (IOException e) {
+    } catch (IOException e) {
             log.error("Error : "+ e.getMessage());
             e.printStackTrace();
-        } catch (URISyntaxException e) {
+
+    } catch (URISyntaxException e) {
             log.error("Error : "+ e.getMessage());
             e.printStackTrace();
-        }
+   }
         try {
         col_nameCompany.setCellValueFactory(new PropertyValueFactory<Client, String>("nameCompany"));
         col_dateStartWork.setCellValueFactory(new PropertyValueFactory<Client, String>("dateStartWork"));
@@ -119,10 +120,10 @@ public class homeController implements Initializable {
         dataGrid.setItems(clients); // definie les elements a afficher (liste clients) dans la tablevie
 
         clients.addAll(CIMP.getAllClients());
-        log.debug("chargement des companies");
-        log.debug("chargement des companies");
         loadCompanies();
+        log.debug("chargement des companies");
         loadStatistiques();
+        log.debug("chargement des statistiques");
 
 
         } catch (Exception e) {
@@ -203,10 +204,13 @@ public class homeController implements Initializable {
             if(CIMP.insertClient(c)) {
                 clients.add(c);
                 sendMail();
+                log.info("mail envoye avec success");
 
 
                 // Message d'ajout :
                 alertHelper.ShowSuccess("OK", "Client ajouter", "Client ajouter avec success");
+                log.info("client ajouter DB avec success");
+
                 // Reset les valeurs des controls apres l'ajout
                 nameCompany.setText("");
                 dateStartWork.setValue(null);
@@ -365,13 +369,13 @@ public class homeController implements Initializable {
 
     @FXML
     private void companyHandler(ActionEvent event){
-
+       log.info("companie selectionnee");
         Filter();
     }
 
     @FXML
     private void filterHandler(KeyEvent event) {
-
+        log.info("filtrage : search");
         Filter();
     }
 

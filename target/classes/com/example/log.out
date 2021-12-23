@@ -349,4 +349,9 @@ file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentrali
   2021-12-23 18:09:52 DEBUG homeController:122 - chargement des companies
   2021-12-23 18:09:52 DEBUG homeController:123 - chargement des companies
   2021-12-23 18:09:53 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 18:15:45 INFO  loginController:36 - Hello , this is a login start ! 
+  2021-12-23 18:16:06 INFO  homeController:88 - You are now in home page 
+  2021-12-23 18:16:06 DEBUG homeController:122 - chargement des companies
+  2021-12-23 18:16:06 DEBUG homeController:123 - chargement des companies
+  2021-12-23 18:16:07 INFO  loginController:58 -  Your now in register page Email : loubna@gmail.com Name : SOUSSI LOUBNA
   
