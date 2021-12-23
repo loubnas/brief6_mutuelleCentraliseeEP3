@@ -1,0 +1,352 @@
+  2021-12-23 10:00:21 INFO  loginController:34 - Hello , this is a login start !
+  2021-12-23 10:08:53 INFO  loginController:34 - Hello , this is a login start !
+  2021-12-23 10:09:24 INFO  homeController:88 - You are now in home page
+  2021-12-23 10:10:15 ERROR homeController:228 - Error, Client avec le meme CIN ou PASSPORT
+  2021-12-23 10:13:35 INFO  loginController:34 - Hello , this is a login start !
+  2021-12-23 10:13:50 INFO  homeController:88 - You are now in home page
+  2021-12-23 10:14:45 INFO  loginController:34 - Hello , this is a login start !
+  2021-12-23 10:14:54 INFO  homeController:88 - You are now in home page
+  2021-12-23 10:14:57 ERROR homeController:242 - validation des champs[Champ vide ('Date Register')]
+  2021-12-23 10:57:33 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 10:57:48 INFO  homeController:88 - You are now in home page 
+  2021-12-23 10:57:54 ERROR homeController:242 - Erreur[Champ vide ('Date Register')]
+  2021-12-23 10:57:54 ERROR homeController:249 - Erreur[Champ vide ('Date Register'), Champ vide ('Date Start Work')]
+  2021-12-23 10:57:54 ERROR homeController:256 - Champ vide [Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name')]
+  2021-12-23 10:57:54 ERROR homeController:269 - Erreur[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name')]
+  2021-12-23 10:57:54 ERROR homeController:282 - validation des champs[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000.]
+  2021-12-23 10:57:54 ERROR homeController:297 - validation des champs[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000., Format incorrect ('Phone') - ex : +000-60000000.]
+  2021-12-23 10:57:54 ERROR homeController:304 - validation des champs[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000., Format incorrect ('Phone') - ex : +000-60000000., Format incorrect ('Email') - ex : email@domain.com]
+  2021-12-23 10:57:54 ERROR homeController:311 - Erreur[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000., Format incorrect ('Phone') - ex : +000-60000000., Format incorrect ('Email') - ex : email@domain.com, Champ vide ('Adresse')]
+  2021-12-23 10:57:54 ERROR homeController:318 - Erreur[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000., Format incorrect ('Phone') - ex : +000-60000000., Format incorrect ('Email') - ex : email@domain.com, Champ vide ('Adresse'), Champ vide ('NumBadgeWork')]
+  2021-12-23 10:57:54 ERROR homeController:333 - Erreur[Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000., Format incorrect ('Phone') - ex : +000-60000000., Format incorrect ('Email') - ex : email@domain.com, Champ vide ('Adresse'), Champ vide ('NumBadgeWork'), Champ vide ('Name Company')]
+  2021-12-23 10:57:56 ERROR homeController:345 - Erreur au niveau du validation des champs [Champ vide ('Date Register'), Champ vide ('Date Start Work'), Champ vide ('First Name'), Champ vide ('Last Name'), Format incorrect ('CIN') - ex : AA000000., Format incorrect ('Phone') - ex : +000-60000000., Format incorrect ('Email') - ex : email@domain.com, Champ vide ('Adresse'), Champ vide ('NumBadgeWork'), Champ vide ('Name Company')]
+  2021-12-23 10:58:42 ERROR homeController:318 - Erreur[Champ vide ('NumBadgeWork')]
+  2021-12-23 10:58:42 ERROR homeController:333 - Erreur[Champ vide ('NumBadgeWork'), Champ vide ('Name Company')]
+  2021-12-23 10:58:43 ERROR homeController:345 - Erreur au niveau du validation des champs [Champ vide ('NumBadgeWork'), Champ vide ('Name Company')]
+  2021-12-23 10:58:51 ERROR homeController:311 - Erreur[Champ vide ('Adresse')]
+  2021-12-23 10:58:53 ERROR homeController:345 - Erreur au niveau du validation des champs [Champ vide ('Adresse')]
+  2021-12-23 10:58:58 ERROR homeController:256 - Champ vide [Champ vide ('First Name')]
+  2021-12-23 10:59:00 ERROR homeController:345 - Erreur au niveau du validation des champs [Champ vide ('First Name')]
+  2021-12-23 11:33:32 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:33:57 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:34:09 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:09 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:14 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:14 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:22 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:22 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:23 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:23 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:24 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:24 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:24 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:24 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:25 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:25 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:25 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:25 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:28 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:28 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:28 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:28 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:30 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:30 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:34 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:34 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:34 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:34 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:34:34 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:34:34 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:35:09 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:35:35 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:35:35 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:39:03 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:42:16 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:46:10 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:46:21 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:46:21 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:46:39 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:46:50 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:46:50 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/Desktop/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:48:15 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:50:53 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:51:10 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:51:10 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:51:11 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:51:11 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:51:11 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:51:11 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:51:11 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:51:11 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 11:53:13 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 11:53:29 ERROR loginController:59 - Erreur de connexion , Login ou password incorrecte
+  2021-12-23 11:53:38 INFO  homeController:88 - You are now in home page 
+  2021-12-23 11:53:38 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 13:55:49 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 13:56:56 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 13:57:06 INFO  homeController:88 - You are now in home page 
+  2021-12-23 13:57:06 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 13:57:06 INFO  homeController:88 - You are now in home page 
+  2021-12-23 13:57:06 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 13:59:52 INFO  homeController:88 - You are now in home page 
+  2021-12-23 13:59:52 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 14:06:07 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:06:23 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:09:19 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:09:29 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:15:30 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:15:46 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:17:25 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:17:38 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:17:40 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:17:40 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:17:59 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:18:14 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:21:19 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:21:32 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:22:23 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:22:37 FATAL loginController:64 - Error : Location is not set.
+  2021-12-23 14:28:57 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:29:13 INFO  homeController:88 - You are now in home page 
+  2021-12-23 14:29:13 DEBUG homeController:116 - chargement des companies
+  2021-12-23 14:29:13 DEBUG homeController:117 - chargement des companies
+  2021-12-23 14:29:14 INFO  loginController:54 -  Your now in register page 
+  2021-12-23 14:31:02 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:32:45 INFO  homeController:88 - You are now in home page 
+  2021-12-23 14:32:45 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 14:53:22 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:54:59 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:55:11 INFO  homeController:88 - You are now in home page 
+  2021-12-23 14:55:11 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 14:55:57 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 14:56:06 INFO  homeController:88 - You are now in home page 
+  2021-12-23 14:56:06 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:01:26 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:01:34 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:01:34 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:01:36 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:01:36 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:01:36 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:01:36 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:01:36 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:01:36 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:01:36 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:01:36 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:02:16 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:03:15 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:03:15 FATAL loginController:64 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 15:06:00 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:06:11 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:06:11 DEBUG homeController:116 - chargement des companies
+  2021-12-23 15:06:11 DEBUG homeController:117 - chargement des companies
+  2021-12-23 15:06:12 INFO  loginController:54 -  Your now in register page 
+  2021-12-23 15:54:19 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:54:31 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:54:31 DEBUG homeController:116 - chargement des companies
+  2021-12-23 15:54:31 DEBUG homeController:117 - chargement des companies
+  2021-12-23 15:54:32 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 15:55:09 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:55:26 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:55:26 DEBUG homeController:116 - chargement des companies
+  2021-12-23 15:55:26 DEBUG homeController:117 - chargement des companies
+  2021-12-23 15:55:27 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 15:57:21 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:57:33 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:57:33 DEBUG homeController:116 - chargement des companies
+  2021-12-23 15:57:33 DEBUG homeController:117 - chargement des companies
+  2021-12-23 15:57:35 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 15:58:03 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 15:58:16 INFO  homeController:88 - You are now in home page 
+  2021-12-23 15:58:16 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:00:00 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:00:12 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:00:12 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:03:34 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:03:49 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:03:49 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:03:49 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:03:50 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:05:35 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:05:48 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:05:48 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:14:51 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:15:09 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:15:09 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:26:14 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:26:26 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:26:26 FATAL loginController:65 - Error : 
+/C:/Users/admin/IdeaProjects/Briefs_2ème_Annee/brief6_mutuelleCentraliseeEP3/target/classes/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:27:01 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:27:12 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:27:12 FATAL loginController:65 - Error : 
+/C:/Users/admin/IdeaProjects/Briefs_2ème_Annee/brief6_mutuelleCentraliseeEP3/target/classes/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:27:33 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:27:43 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:27:43 FATAL loginController:65 - Error : 
+/C:/Users/admin/IdeaProjects/Briefs_2ème_Annee/brief6_mutuelleCentraliseeEP3/target/classes/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:28:06 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:28:16 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:28:16 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:28:16 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:28:17 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:28:51 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:29:02 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:29:02 FATAL loginController:65 - Error : 
+/C:/Users/admin/IdeaProjects/Briefs_2ème_Annee/brief6_mutuelleCentraliseeEP3/target/classes/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:31:08 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:31:18 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:31:18 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:31:18 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:31:19 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:33:17 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:33:50 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:33:50 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:36:44 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:36:54 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:36:54 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:36:54 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:36:55 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:37:22 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:37:45 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:37:45 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:38:13 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:38:28 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:38:28 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:38:28 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:38:29 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:39:23 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:39:33 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:39:33 FATAL loginController:65 - Error : 
+file:/C:/Users/admin/IdeaProjects/Briefs_2%c3%a8me_Annee/brief6_mutuelleCentraliseeEP3/out/artifacts/brief3_mutuelleCentralisee_jar/brief3_mutuelleCentralisee.jar!/com/example/brief3_mutuellecentralisee/home-view.fxml
+
+  2021-12-23 16:56:03 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:56:13 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:56:14 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:56:14 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:56:15 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:57:12 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:57:21 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:57:21 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:57:21 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:57:22 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:58:08 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:58:22 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:58:22 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:58:22 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:58:23 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:59:25 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 16:59:36 INFO  homeController:88 - You are now in home page 
+  2021-12-23 16:59:36 DEBUG homeController:122 - chargement des companies
+  2021-12-23 16:59:36 DEBUG homeController:123 - chargement des companies
+  2021-12-23 16:59:37 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 16:59:58 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 17:00:13 INFO  homeController:88 - You are now in home page 
+  2021-12-23 17:00:13 DEBUG homeController:122 - chargement des companies
+  2021-12-23 17:00:13 DEBUG homeController:123 - chargement des companies
+  2021-12-23 17:00:14 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 17:00:34 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 17:00:43 INFO  homeController:88 - You are now in home page 
+  2021-12-23 17:00:43 DEBUG homeController:122 - chargement des companies
+  2021-12-23 17:00:43 DEBUG homeController:123 - chargement des companies
+  2021-12-23 17:00:44 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 17:01:26 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 17:01:36 INFO  homeController:88 - You are now in home page 
+  2021-12-23 17:01:36 DEBUG homeController:122 - chargement des companies
+  2021-12-23 17:01:36 DEBUG homeController:123 - chargement des companies
+  2021-12-23 17:01:37 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 17:13:11 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 17:13:22 INFO  homeController:88 - You are now in home page 
+  2021-12-23 17:13:22 DEBUG homeController:122 - chargement des companies
+  2021-12-23 17:13:22 DEBUG homeController:123 - chargement des companies
+  2021-12-23 17:13:23 INFO  loginController:55 -  Your now in register page 
+  2021-12-23 17:15:35 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 18:09:37 INFO  loginController:34 - Hello , this is a login start ! 
+  2021-12-23 18:09:52 INFO  homeController:88 - You are now in home page 
+  2021-12-23 18:09:52 DEBUG homeController:122 - chargement des companies
+  2021-12-23 18:09:52 DEBUG homeController:123 - chargement des companies
+  2021-12-23 18:09:53 INFO  loginController:55 -  Your now in register page 
+  
